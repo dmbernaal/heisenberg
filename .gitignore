@@ -1,0 +1,8 @@
+# env
+.env
+
+# model weights
+model_weights
+
+# cache
+__pycache__

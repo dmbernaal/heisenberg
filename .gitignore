@@ -6,3 +6,9 @@ model_weights
 
 # cache
 __pycache__
+
+# data
+data
+
+# ds store
+.DS_Store
